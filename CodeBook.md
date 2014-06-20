@@ -11,17 +11,17 @@ for each measurement.
 
 * 3. Reads activity_labels.txt and applies descriptive activity names to name the activities in the data set:
 
-walking
+** walking
 
-walkingupstairs
+** walkingupstairs
 
-walkingdownstairs
+** walkingdownstairs
 
-sitting
+** sitting
 
-standing
+** standing
 
-laying
+** laying
 
 * 4. The script also appropriately labels the data set with descriptive names:
 all feature names (attributes) and activity names are converted to lower case,
